@@ -1,0 +1,15 @@
+{
+  "name": "bugcam",
+  "version": "1.0.0",
+  "description": "webcam streamer with small front-end site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave seidman",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rsync": "0.0.6"
+  }
+}
